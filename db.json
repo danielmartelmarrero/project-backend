@@ -469,7 +469,527 @@
       "discPrice": 929,
       "price": 929,
       "categoryId": 6
+    },
+    {
+      "id": 26,
+      "title": [
+        "Apple iPad (2022 10ª gen)",
+        " , 256 GB, Azul, WiFi, 10.9, Retina, Chip A14 Bionic, iPadOS 16"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_e63fb3ab-832c-4c2c-a4da-5791f260953b_1024x1024.png?v=1666343812",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3d5249c9-812b-4754-a51f-0e0216e787d3_large.png?v=1666343815",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_512c1059-8c25-4c85-b352-2e9b1ffb6d07_large.png?v=1666343817",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_43e69910-842c-40e2-8b69-a46d6774d056_large.png?v=1666343820"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice": 569,
+      "discPrice": 529,
+      "price": 529,
+      "categoryId": 1
+    },
+    {
+      "id": 27,
+      "title": [
+        "Apple iPad Air (2024)",
+        ", 128 GB, Blanco estrella, 13, WiFi, Pantalla Liquid Retina, Chip M2, 10GPU"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_5e671c0b-0f80-43bc-9dec-c35b11043f76_1024x1024.png?v=1715167383",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_df0d6e3f-d70c-4d32-a2f2-ae3585ab64e9_large.png?v=1715168746",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_79ecb74d-70f6-49ea-ae04-833a6bb0f925_large.png?v=1715168746",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_58431f62-adf5-4dc2-ad05-839d66065ec6_large.png?v=1715167391"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+    
+      "price": 869,
+      "categoryId": 1
+    },{
+      "id": 28,
+      "title": [
+        "Apple iPad Pro (2022 6ª gen.)",
+        " 1 TB, Plata, 12.9, WiFi+CELL, Liquid Retina XDR, 8 GB RAM, Chip M2, iPadOS 16"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_2b9fb4d9-9d2c-4e00-a9fb-82f19250b64e_1024x1024.png?v=1666343836",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f15835ef-380c-4a02-8ab6-41c214111a17_large.png?v=1666343838",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_1be494e6-2018-4e77-a309-40b51ae0e0af_large.png?v=1666343841",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3649e20d-e668-4208-8f2a-808e1b6a080f_large.png?v=1666343843"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+    
+      "price": 1889.55,
+      "categoryId": 1
+    },
+    {
+      "id": 29,
+      "title": [
+        "Móvil - Samsung Galaxy Z Flip6 5G, 256GB, 12GB RAM, Verde, 6.7 FHD+, Plegable, Qualcomm Snapdragon, 4000 mAh, Android 14",
+        "Flip6 5G, 256GB, 12GB RAM, Verde, 6.7 FHD+, Plegable, Qualcomm Snapdragon, 4000 mAh, Android 14"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_5a4ea635-8cc2-45a2-a774-585bf5c3cb5b_1024x1024.png?v=1720617735",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_62d732f2-60a6-49b7-994b-12ac6265e90a_large.png?v=1720617725",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_ad672d91-fe92-4eee-b9eb-371744b4824e_large.png?v=1720617728",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_a6f63b27-4da5-4271-b367-f88b2be4b211_large.png?v=1720617730"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice": 1109,
+      "discPrice":942.65,
+      "price": 942.65,
+      "categoryId": 2
+    },
+    {
+      "id": 30,
+      "title": [
+        "Móvil - realme C63, Azul, 256 GB, 8 GB RAM, 6.74 IPS 90 Hz, UNISOC T612, 5000 mAh, Carga rápida 45W, Android",
+        ", Azul, 256 GB, 8 GB RAM, 6.74 IPS 90 Hz, UNISOC T612, 5000 mAh, Carga rápida 45W, Android"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_bda13365-c24a-4e48-a232-1c3cb6904232_1024x1024.png?v=1722874125"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice": 179,
+      "discPrice":152.15,
+      "price": 152.15,
+      "categoryId": 2
+    },
+    {
+      "id": 31,
+      "title": [
+        "Móvil - Xiaomi 14, ",
+        "Verde, 512 GB, 12 GB RAM, 6.36 AMOLED 120Hz, Snapdragon 8 Gen 3, 4610 mAh, Android-HyperOS"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_511d6e1c-bb7a-4c2a-ac9c-514c3e557d98_1024x1024.png?v=1708876173",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_78366585-ca8b-4095-a160-f1f53b994262_large.png?v=1708876176",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_334df8e9-d85b-4151-a434-07c8b8e58ca1_large.png?v=1708876178",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6d7a2deb-b030-4fe8-8c1e-3605f42fde57_large.png?v=1708876184"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice": 999,
+      "discPrice":789,
+      "price": 789,
+      "categoryId": 2
+    },{
+      "id": 32,
+      "title": [
+        "Portátil gaming",
+        " - ASUS TUF A15 FA506NC-HN003W, 15.6 Full HD, AMD Ryzen™ 5 7535H, 16GB RAM, 512GB SSD, GeForce RTX™ 3050, Windows 11 Home"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_3322b669-4fcf-4af9-8449-26927db2b4f7_1024x1024.png?v=1716296489",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_c875f011-08fb-461a-8627-805dfab15c89_large.png?v=1716296489",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6116c45d-4f25-48a9-9cbb-5e81f3061c32_large.png?v=1709557907",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b166c4ba-80d9-411f-b5ac-0cdfedc0bd5d_large.png?v=1709557910"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice": 999,
+      "discPrice":749,
+      "price": 749,
+      "categoryId": 6
+    },
+    {
+      "id": 33,
+      "title": [
+        "Portátil gaming",
+        " - Acer Nitro V 15 ANV15-51, 15.6 Full HD IPS, Intel® Core™ i5-13420H, 16GB RAM, 1TB SSD, GeForce RTX™ 4060, Windows 11 Home"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f3db937f-0139-4199-b981-4abb3b414c2a_large.png?v=1722950167",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0e290408-76e8-4d8d-8b3c-b9f8fe367252_large.png?v=1722950148",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_9e835b76-4c2c-4d23-9a9c-f43783e6d13b_large.png?v=1722950143",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_bb3ee608-0469-42bf-9040-c855566ffcc2_large.png?v=1722950158"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice": 1129,
+      "discPrice": 999,
+      "price": 999,
+      "categoryId": 6
+    },
+    {
+      "id": 34,
+      "title": [
+        "Portátil - LG ",
+        "16UD70R-G.AX56B, 16 WUXGA, Ryzen™ 5 7530U, 16GB RAM, 512GB SSD, AMD Radeon™ Graphics, Sin sistema operativo"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f411127f-2524-4d17-9a8e-267621073a68_1024x1024.png?v=1687451791",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f411127f-2524-4d17-9a8e-267621073a68_1024x1024.png?v=1687451791",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_78e1e706-be44-42bf-a9ad-7b7512752003_large.png?v=1687451796",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_b27b36c3-1427-4d26-bb0d-36448ff1dcf3_large.png?v=1687451798"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 764.15,
+      "categoryId": 6
+    },
+    {
+      "id": 35,
+      "title": [
+        "TV LED 75",
+        " - LG 75UR80006LJ, UHD 4K, Inteligente α5 4K Gen6, Smart TV, DVB-T2 (H.265), Azul Ceniza"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_a27a9237-f334-4941-8090-4c8407d02c18_1024x1024.png?v=1683727973",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8f6b4882-ef68-417e-8f64-f48d62c712cc_large.png?v=1683727975",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_63204e5b-005a-4a66-aba3-60e9cdb75d3c_large.png?v=1683727978",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f6fdd44d-8e31-48bb-a6b8-71aec6897d58_large.png?v=1683727981"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 640.65,
+      "categoryId": 3
+    },
+    {
+      "id": 36,
+      "title": [
+        "TV QLED 55",
+        " - Haier Q8 Series H55Q800UX, Smart TV (Google TV), HDR 4K, Direct LED, Dolby Atmos-Vision, Gaming 120 Hz, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_854640ec-5327-4c0d-96be-3b9e869f6007_1024x1024.png?v=1704793705",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_67e64d74-e2db-41aa-9e26-b963dd541c36_large.png?v=1704793708",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_2ce9602f-863e-49f2-9b1c-4f9a14d1a407_large.png?v=1704793710",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_2be062e5-0876-4528-b070-91b783ab65d2_large.png?v=1704793712"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice":475,
+      "discPrice":403.75,
+      "price": 403.75,
+      "categoryId": 3
+    },
+    {
+      "id": 37,
+      "title": [
+        "Proyector - Optoma HD28B, DLP, Full HD, 30.000:1, 3800 lm, Full 3D, Modo ISF, 28 dB, Negro",
+        " - Optoma HD28B, DLP, Full HD, 30.000:1, 3800 lm, Full 3D, Modo ISF, 28 dB, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_bf406400-d4d9-4812-bebd-8cf89d1d09f4_1024x1024.png?v=1620751943",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_db74ab4e-0d44-4347-9ad1-3fdd8a4612ce_large.png?v=1620751976",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3fc0fb25-6faf-4e90-97b1-a21076708eb0_large.png?v=1620751993",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_c7d83b68-5047-40af-92fa-da2c628eea3b_large.png?v=1620752008"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice":489,
+      "discPrice":415.65,
+      "price": 415.65,
+      "categoryId": 3
+    },
+    {
+      "id": 38,
+      "title": [
+        "Lavadora",
+        " Carga Frontal - Qool QL81400, Carga Frontal, 8 Kg, 1400 rpm, A"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_daeff5db-91d8-4e60-9d9d-df6f3d51724a_1_1024x1024.png?v=1722427176"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 211.65,
+      "categoryId": 5
+    },
+    {
+      "id": 39,
+      "title": [
+        "Frigorífico",
+        " combi - Samsung SMART AI RB38C675CS9/EF, All-Around Cooling, 200 cm, 390L, No Frost, WiFi, Inox"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_de1822ed-96bc-4966-93d1-125797ed9c71_1024x1024.png?v=1687451768",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_d02b8334-b122-4780-b2e9-2b742c526532_large.png?v=1687451769",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_976962ad-6934-4a48-a919-1804af657792_large.png?v=1687451772",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_dea2a179-152b-4f56-9bc1-2034e955b18b_large.png?v=1687451776"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 594.15,
+      "categoryId": 5
+    },
+    {
+      "id": 40,
+      "title": [
+        "Frigorífico",
+        " americano - Samsung RS65DG54R3S9EF, Mono cooling, No Frost, 178 cm, 635 l, Dispensador de agua & hielo, Power Cool, Inox"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_55bf45f9-d21e-4f49-b77e-d1054b2208c6_1024x1024.png?v=1718382005",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_da274f52-a363-4481-9da1-9654ce2feb97_large.png?v=1718382005",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_7ff554ad-3ceb-4abb-b664-4d3973f176aa_large.png?v=1718382005",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_efd65941-54b8-4594-9181-46351f31dd60_large.png?v=1718382005"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 899,
+      "categoryId": 5
+    },
+    {
+      "id": 41,
+      "title": [
+        "Microondas",
+        " - Cecotec ProClean 5120 Mirror, Grill, 700W, 20 L, 8 programas, Inox"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_3_1024x1024.png?v=1699619914",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_0c661f27-d1b8-4ceb-bb70-d8ab3d67a2ab_large.png?v=1699619914"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 73,
+      "categoryId": 5
+    },{
+      "id": 42,
+      "title": [
+        "Microondas",
+        " integrable - Candy MIC201EX, Grill, 1000W, 8 niveles, 20l, Con marco, Material antihuellas, Inox"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_346cf51a-aa1d-4445-99ea-38172cdf43c8_1024x1024.png?v=1583505112",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_0c661f27-d1b8-4ceb-bb70-d8ab3d67a2ab_large.png?v=1699619914"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 129,
+      "categoryId": 5
+    },
+    {
+      "id": 43,
+      "title": [
+        "Encimera",
+        " - Balay 3EB967FRE, Eléctrica, Inducción, 3 zonas, 32 cm, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_e6c88bf2-e76e-413e-a777-22893c870dd7_1024x1024.png?v=1580323898"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 439,
+      "categoryId": 5
+    },{
+      "id": 44,
+      "title": [
+        "Horno",
+        " - Balay 3HB4131X2, Multifunción, Aqualisis, 7 funciones, 71 L, Inox"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_71743b29-1989-4e0a-ab0a-c0531392eca7_1024x1024.png?v=1667216843",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_ab280861-6460-4ee2-94cd-ff9a29301ec6_large.png?v=1667216845",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_d5bac99d-efb1-4ec4-b71f-135aee1fd29b_large.png?v=1667216851",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_d42d2188-b009-48b0-a818-cf103eaa59ff_large.png?v=1667216853"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 262.65,
+      "categoryId": 5
+    },
+    {
+      "id": 45,
+      "title": [
+        "Campana",
+        " - Teka TL 6310, Extraíble, 332 m³/h, 2 velocidades, Inox"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_ff1e7b34-da33-456b-bd53-dd1d284d412d_1024x1024.png?v=1596820191"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 66.29,
+      "categoryId": 5
     }
+
+
   ],
   "categories": [
     {
@@ -499,43 +1019,40 @@
   ],
   "shoppingcart": [
     {
-      "id": 16,
+      "id": 11,
       "title": [
-        "Móvil - Samsung Galaxy S24 Ultra",
-        ", Titanium Black, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14"
+        "TV QLED 43",
+        " - Xiaomi A PRO 2025 43, QLED 4K, Smart TV (Google TV), Dolby Vision, Control por voz, Black"
       ],
       "pictures": [
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1bfbf29c-b979-42f5-8c29-c94f07afc3fb_1024x1024.png?v=1718294332",
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_452ca788-2e24-4c88-9a6b-3a1e02181e06_large.png?v=1718294332",
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_04fe6a3c-d6a3-4259-adfe-fe08496be6fb_large.png?v=1718294332"
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_e4a74989-77de-4685-80a5-4e86576989e1_1024x1024.png?v=1715244823",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_104bc4e4-4b10-4ae6-a969-94e23edf5dc2_large.png?v=1715244826",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3c108c63-838e-4322-a7e9-945c487389ae_large.png?v=1596821565https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_fe327f7a-b590-4251-84f9-4629d0808039_large.png?v=1715244829"
       ],
       "descriptionText": [
-        "Bienvenido a la nueva era de la telefonía. Galaxy S24 Ultra es la estrella de la corona del nuevo lanzamiento de Samsung. El primer móvil con Inteligencia Artificial de la compañía supone toda una revolución, ya que ofrece sorprendentes funcionalidades que explotan todo el potencial de la Inteligencia Artificial. Descubre una nueva forma de comunicar, crear contenido, jugar y navegar con tu Galaxy S24 Ultra."
+        "Disfruta de una experiencia de cine con la televisión Xiaomi A PRO 2025 con un diseño de marcos ultrafinos, sonido Dolby y sistema Google Tv para disfrutar de todas tus películas y series favoritas."
       ],
-      "originalPrice": 1459,
-      "discPrice": 1239,
-      "price": 1239,
-      "categoryId": 2,
-      "quantity": 1
+      "price": 269,
+      "categoryId": 3,
+      "quantity": 16
     },
     {
-      "id": 2,
+      "id": 13,
       "title": [
-        "Apple iPhone 13",
-        ", (PRODUCT)RED, 256 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"
+        "TV DLED 40",
+        " - Peaq PTV 40F-5024C, Full-HD, Triple Tuner, Dolby Audio, Negro"
       ],
       "pictures": [
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8df2ba12-dd1c-4e78-9a9c-d3149326f5c6_1024x1024.png?v=1631868521",
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3bb7182c-9dc1-4106-bf0a-8c2f62ab4c30_large.png?v=1631868521",
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_66856f86-f44c-4bfa-91dc-d51bf54be4a3_large.png?v=1631868521"
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6c0696f0-d1a9-4031-9461-aedacb0e3bff_1024x1024.png?v=1722950152",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f4a28d66-e3ab-4e57-8b36-eb179955d917_large.png?v=1722950141",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1657f4f3-cca0-419f-b587-96388d21b749_large.png?v=1722950134"
       ],
-      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
-      "price": 549,
-      "color": [
-        "red"
+      "descriptionText": [
+        "Disfruta de la calidad de imagen Full HD con la televisión Peaq PTV 40F-5024C."
       ],
-      "categoryId": 1,
-      "quantity": 1
+      "price": 169,
+      "categoryId": 3,
+      "quantity": 8
     }
   ]
 }
