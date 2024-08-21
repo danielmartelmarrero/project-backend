@@ -521,10 +521,10 @@
         "Se limpia y seca sola",
         "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
       ],
-    
       "price": 869,
       "categoryId": 1
-    },{
+    },
+    {
       "id": 28,
       "title": [
         "Apple iPad Pro (2022 6ª gen.)",
@@ -547,7 +547,6 @@
         "Se limpia y seca sola",
         "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
       ],
-    
       "price": 1889.55,
       "categoryId": 1
     },
@@ -575,7 +574,7 @@
         "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
       ],
       "originalPrice": 1109,
-      "discPrice":942.65,
+      "discPrice": 942.65,
       "price": 942.65,
       "categoryId": 2
     },
@@ -600,7 +599,7 @@
         "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
       ],
       "originalPrice": 179,
-      "discPrice":152.15,
+      "discPrice": 152.15,
       "price": 152.15,
       "categoryId": 2
     },
@@ -628,10 +627,11 @@
         "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
       ],
       "originalPrice": 999,
-      "discPrice":789,
+      "discPrice": 789,
       "price": 789,
       "categoryId": 2
-    },{
+    },
+    {
       "id": 32,
       "title": [
         "Portátil gaming",
@@ -655,7 +655,7 @@
         "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
       ],
       "originalPrice": 999,
-      "discPrice":749,
+      "discPrice": 749,
       "price": 749,
       "categoryId": 6
     },
@@ -762,8 +762,8 @@
         "Se limpia y seca sola",
         "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
       ],
-      "originalPrice":475,
-      "discPrice":403.75,
+      "originalPrice": 475,
+      "discPrice": 403.75,
       "price": 403.75,
       "categoryId": 3
     },
@@ -790,8 +790,8 @@
         "Se limpia y seca sola",
         "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
       ],
-      "originalPrice":489,
-      "discPrice":415.65,
+      "originalPrice": 489,
+      "discPrice": 415.65,
       "price": 415.65,
       "categoryId": 3
     },
@@ -893,7 +893,8 @@
       ],
       "price": 73,
       "categoryId": 5
-    },{
+    },
+    {
       "id": 42,
       "title": [
         "Microondas",
@@ -939,7 +940,8 @@
       ],
       "price": 439,
       "categoryId": 5
-    },{
+    },
+    {
       "id": 44,
       "title": [
         "Horno",
@@ -988,8 +990,6 @@
       "price": 66.29,
       "categoryId": 5
     }
-
-
   ],
   "categories": [
     {
@@ -1053,6 +1053,54 @@
       "price": 169,
       "categoryId": 3,
       "quantity": 8
+    },
+    {
+      "id": 2,
+      "title": [
+        "Apple iPhone 13",
+        ", (PRODUCT)RED, 256 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8df2ba12-dd1c-4e78-9a9c-d3149326f5c6_1024x1024.png?v=1631868521",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3bb7182c-9dc1-4106-bf0a-8c2f62ab4c30_large.png?v=1631868521",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_66856f86-f44c-4bfa-91dc-d51bf54be4a3_large.png?v=1631868521"
+      ],
+      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
+      "price": 549,
+      "color": [
+        "red"
+      ],
+      "categoryId": 1,
+      "quantity": 4
+    },
+    {
+      "id": 36,
+      "title": [
+        "TV QLED 55",
+        " - Haier Q8 Series H55Q800UX, Smart TV (Google TV), HDR 4K, Direct LED, Dolby Atmos-Vision, Gaming 120 Hz, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_854640ec-5327-4c0d-96be-3b9e869f6007_1024x1024.png?v=1704793705",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_67e64d74-e2db-41aa-9e26-b963dd541c36_large.png?v=1704793708",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_2ce9602f-863e-49f2-9b1c-4f9a14d1a407_large.png?v=1704793710",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_2be062e5-0876-4528-b070-91b783ab65d2_large.png?v=1704793712"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "originalPrice": 475,
+      "discPrice": 403.75,
+      "price": 403.75,
+      "categoryId": 3,
+      "quantity": 1
     }
   ]
 }
