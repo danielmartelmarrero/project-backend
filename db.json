@@ -1019,88 +1019,84 @@
   ],
   "shoppingcart": [
     {
-      "id": 11,
+      "id": 17,
       "title": [
-        "TV QLED 43",
-        " - Xiaomi A PRO 2025 43, QLED 4K, Smart TV (Google TV), Dolby Vision, Control por voz, Black"
+        "Móvil - Samsung Galaxy A25 5G",
+        ", Negro, 256GB, 8GB RAM, 6.5 FHD+, Exynos 1280 Octa-Core, 5000mAh, Android 14"
       ],
       "pictures": [
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_e4a74989-77de-4685-80a5-4e86576989e1_1024x1024.png?v=1715244823",
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_104bc4e4-4b10-4ae6-a969-94e23edf5dc2_large.png?v=1715244826",
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3c108c63-838e-4322-a7e9-945c487389ae_large.png?v=1596821565https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_fe327f7a-b590-4251-84f9-4629d0808039_large.png?v=1715244829"
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_d4fabe9c-12ce-4bfe-979d-c2ccf8d4cafb_1024x1024.png?v=1718295056",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_7e6b43db-98f6-419c-ac45-75dfdd902995_large.png?v=1718295056",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_84c5f41d-44a8-49f6-88b0-3db262673c5c_large.png?v=1718295056"
       ],
       "descriptionText": [
-        "Disfruta de una experiencia de cine con la televisión Xiaomi A PRO 2025 con un diseño de marcos ultrafinos, sonido Dolby y sistema Google Tv para disfrutar de todas tus películas y series favoritas."
+        "Amantes de la tecnología, ¡estáis de suerte! Samsung, marca puntera en tecnología móvil, presenta la nueva incorporación a la Serie A de Galaxy, una gama que suele destacar por sus originales diseños y por reafirmarse en una apuesta contundente por hacer accesibles prestaciones de muy alta calidad para todos. Así, el nuevo Galaxy A25 5G se presenta como una opción perfecta para quienes buscan un smartphone potente con el que poder divertirse, trabajar y navegar con la tranquilidad que aportan un dispositivo seguro y la posibilidad de confiar en un móvil que llega hasta donde tú digas. ¡Descubre el último fichaje y hazte con él!"
       ],
-      "price": 269,
-      "categoryId": 3,
-      "quantity": 16
+      "originalPrice": 339,
+      "discPrice": 215,
+      "price": 215,
+      "categoryId": 2,
+      "quantity": 0
     },
     {
-      "id": 13,
-      "title": [
-        "TV DLED 40",
-        " - Peaq PTV 40F-5024C, Full-HD, Triple Tuner, Dolby Audio, Negro"
-      ],
-      "pictures": [
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6c0696f0-d1a9-4031-9461-aedacb0e3bff_1024x1024.png?v=1722950152",
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f4a28d66-e3ab-4e57-8b36-eb179955d917_large.png?v=1722950141",
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1657f4f3-cca0-419f-b587-96388d21b749_large.png?v=1722950134"
-      ],
-      "descriptionText": [
-        "Disfruta de la calidad de imagen Full HD con la televisión Peaq PTV 40F-5024C."
-      ],
-      "price": 169,
-      "categoryId": 3,
-      "quantity": 8
-    },
-    {
-      "id": 2,
+      "id": 3,
       "title": [
         "Apple iPhone 13",
-        ", (PRODUCT)RED, 256 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"
+        ", 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"
       ],
       "pictures": [
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8df2ba12-dd1c-4e78-9a9c-d3149326f5c6_1024x1024.png?v=1631868521",
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3bb7182c-9dc1-4106-bf0a-8c2f62ab4c30_large.png?v=1631868521",
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_66856f86-f44c-4bfa-91dc-d51bf54be4a3_large.png?v=1631868521"
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8ad57f90-cbe1-45bf-a545-b0a8ee5451b1_1024x1024.png?v=1631868520",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_db75dddf-a9ce-4819-beea-55c44d8bc4ea_compact.png?v=1631868520",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_24e4633c-d31e-4027-81d1-0a2d5ce6d36f_compact.png?v=1631868520"
       ],
-      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/1DwXTu4tv1PiD66VEPFCtA/d6ee7a231baabfca104cef40137678d9/1146-1.png?q=80",
-      "price": 549,
+      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
+      "price": 579,
       "color": [
-        "red"
+        "blue",
+        "white",
+        "black",
+        "pink",
+        "green"
       ],
       "categoryId": 1,
-      "quantity": 4
+      "quantity": 2
     },
     {
-      "id": 36,
+      "id": 18,
       "title": [
-        "TV QLED 55",
-        " - Haier Q8 Series H55Q800UX, Smart TV (Google TV), HDR 4K, Direct LED, Dolby Atmos-Vision, Gaming 120 Hz, Negro"
+        "Móvil - Xiaomi Redmi Note 13 Pro 5G",
+        ", Azul, 256 GB, 8 GB RAM, 6.67 AMOLED 1.5K, Qualcomm Snapdragon 7 Gen 2, 5100 mAh, Android"
       ],
       "pictures": [
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_854640ec-5327-4c0d-96be-3b9e869f6007_1024x1024.png?v=1704793705",
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_67e64d74-e2db-41aa-9e26-b963dd541c36_large.png?v=1704793708",
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_2ce9602f-863e-49f2-9b1c-4f9a14d1a407_large.png?v=1704793710",
-        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_2be062e5-0876-4528-b070-91b783ab65d2_large.png?v=1704793712"
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_7e97c4df-0c9b-491a-afe1-9b7290de143c_1024x1024.png?v=1704458887",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f1d4d66b-a999-4cd3-a9ee-c848f4acb768_large.png?v=1704458889",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6d08023e-2c15-4ca7-94b7-aa4d77a56e51_large.png?v=1704458909"
       ],
       "descriptionText": [
-        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
-        "Materiales más sostenibles y duraderos",
-        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
-        "El chip más potente jamás visto en un Galaxy",
-        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
-        "Limpia tu casa sin parones",
-        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
-        "Se limpia y seca sola",
-        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+        "Redmi Note 13 Pro 5G no solo es un smartphone, es una auténtica revolución en diseño que no pasará desapercibida. Su acabado, que solo se encuentra en terminales premium, atraerá todas las miradas. Con una pantalla curva, este dispositivo se siente como una joya en tus manos, y su estilo es innegable. No contento con ser simplemente elegante, el Redmi Note 13 Pro 5G también juega con sus colores Midnight Black, Ocean Teal, Aurora Purple para que encuentres el estilo perfecto para ti. Además, sus bordes planos facilitan un agarre preciso y cómodo."
       ],
-      "originalPrice": 475,
-      "discPrice": 403.75,
-      "price": 403.75,
-      "categoryId": 3,
-      "quantity": 1
+      "price": 313,
+      "categoryId": 2,
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "title": [
+        "Cafetera express",
+        " - Cecotec Cafelizzia 790 Steel, 1350W, Calentamiento rápido, 20 bar, 1.2 L, 1-2 cafés, Inox"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_43f45bff-3556-4227-877e-c7a858292435_1024x1024.png?v=1668076615",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_945fd87f-02be-49d3-944f-789f22fba51f_large.png?v=1668076615"
+      ],
+      "descriptionText": [
+        "Cafetera express - Cecotec Cafelizzia 790 Steel, 1350W, Calentamiento rápido, 20 bar, 1.2 L, 1-2 cafés, Inox"
+      ],
+      "originalPrice": 129,
+      "discPrice": 79.99,
+      "price": 79.99,
+      "categoryId": 4,
+      "quantity": 0
     }
   ]
 }
