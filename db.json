@@ -989,6 +989,411 @@
       ],
       "price": 66.29,
       "categoryId": 5
+    },
+    {
+      "id": 46,
+      "title": [
+        "PS5",
+        " Sword Art Online: Fractured Daydream"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f56dde68-575a-4567-bf01-47eb275cf7c8_1024x1024.png?v=1721308689",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_8b1e4759-ec52-459a-9f39-e854cdc7671e_large.png?v=1721308692",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b309c6ab-f8d3-4388-8531-f22dd2703f76_large.png?v=1721308694",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1c4af21b-88aa-4274-8d1e-b54fa2efe172_large.png?v=1721308697"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 61.99,
+      "categoryId": 8
+    },
+    {
+      "id": 47,
+      "title": [
+        "PS4",
+        " Red Dead Redemption 2"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_235c795a-dcfe-41a3-a740-fb8fafcb0d93_1024x1024.png?v=1580326263"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 17.99,
+      "categoryId": 8
+    },
+    {
+      "id": 48,
+      "title": [
+        "PS4",
+        " Dark Souls: Remastered"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_565b7058-fe93-4fa5-b533-4331a1e2cbed_1024x1024.png?v=1580319762"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 14.99,
+      "categoryId": 8
+    },
+    {
+      "id": 49,
+      "title": [
+        "PS4",
+        " Resident Evil 2 Remake"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_05d80ae1-fdf7-4447-b721-973be14333c4_1024x1024.png?v=1580322924"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 14.99,
+      "categoryId": 8
+    },
+    {
+      "id": 50,
+      "title": [
+        "PS5",
+        " Gran Turismo 7"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_015d2371-4019-4c49-9e55-6903667bab7c_1024x1024.png?v=1638360994"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 73.99,
+      "categoryId": 8
+    },
+    {
+      "id": 51,
+      "title": [
+        "PS5",
+        " Gran Turismo 7"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_015d2371-4019-4c49-9e55-6903667bab7c_1024x1024.png?v=1638360994"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 73.99,
+      "categoryId": 8
+    },
+    {
+      "id": 52,
+      "title": [
+        "PS5",
+        " Dragon Ball Z: Kakarot"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_479c9ad6-9e58-4afc-91b9-a795ed3ed1fd_1024x1024.png?v=1666261140"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 14.99,
+      "categoryId": 8
+    },
+    {
+      "id": 53,
+      "title": [
+        "PS5",
+        " Dragon Ball Z: Kakarot"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_479c9ad6-9e58-4afc-91b9-a795ed3ed1fd_1024x1024.png?v=1666261140"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 14.99,
+      "categoryId": 8
+    },
+    {
+      "id": 54,
+      "title": [
+        "Xbox One & Xbox Series",
+        " X Call of Duty: Modern Warfare III Cross-Gen Edition"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_af7de04f-f096-41ea-9e55-b92def08d863_1024x1024.png?v=1700496761"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 50.99,
+      "categoryId": 8
+    },
+    {
+      "id": 55,
+      "title": [
+        "Ventilador de techo ",
+        "- Cecotec EnergySilence Aero 5500 White Aqua Connected, 40 W, 6, Modo Winter-Summer, Temporizador, Mando a distancia, Wi-Fi, White"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_640bc1b0-6a4b-4da5-8a9a-c473a72b3d67_1024x1024.png?v=1684421176"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 109.9,
+      "categoryId": 7
+    },
+    {
+      "id": 56,
+      "title": [
+        "Ventilador de torre ",
+        "- Cecotec EnergySIlence 8050 SkyLine Smart, 45 W, 3 velocidades, 70º oscilación, Mando a distancia, Temporizador, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_6e43d0b9-869f-4a52-a1f9-60ff444fb701_1024x1024.png?v=1685543265",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f4a8eb7e-c5a6-4a55-ae06-639e07e1f7d5_large.png?v=1685543269",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_b304ab25-0e81-4f6b-b1a2-062fba3f5163_large.png?v=1685543273",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_bf613378-f3f9-4a15-81e8-431416e9aff7_large.png?v=1685543279"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 49.9,
+      "categoryId": 7
+    },
+    {
+      "id": 57,
+      "title": [
+        "Ventilador de sobremesa ",
+        "- Cecotec EnergySilence 610 SteelDesk, 40 W, 3 velocidades, Oscilación, Altura ajustable, Steel"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_17c7a139-bdae-4563-a55f-4cc7821b312a_1024x1024.png?v=1685543269"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 34.9,
+      "categoryId": 7
+    },
+    {
+      "id": 58,
+      "title": [
+        "Ventilador de pie ",
+        "- OK OSF 406023 ES, 60 W, 3 velocidades, Mando a distancia, Temporizador, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_f0b5cb13-a8d4-4b8a-b970-cd4dff170738_1024x1024.png?v=1685543269"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 44,
+      "categoryId": 7
+    },
+    {
+      "id": 59,
+      "title": [
+        "Ventilador de torre ",
+        "- OK OTF 785023 ES, 50 W, 3 velocidades, 5.21 m³/h, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_3a764720-651f-4388-a91d-3caf2fa8f63e_1024x1024.png?v=1685543269"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 34,
+      "categoryId": 7
+    },
+    {
+      "id": 60,
+      "title": [
+        "Ventilador de pie ",
+        "- OK OSF 406023 ES, 60 W, 3 velocidades, Mando a distancia, Temporizador, Negro"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_ccfd0b72-0cef-4f10-acfa-5b807fbd0a25_1024x1024.png?v=1685543268"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 41,
+      "categoryId": 7
+    },
+    {
+      "id": 61,
+      "title": [
+        "Aire acondicionado",
+        " portátil - Infiniton PAC-F75, 2050 fg/h, Deshumidificador, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_10403fec-8d94-4557-84b2-34899cc7316a_1024x1024.png?v=1656425659"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 269,
+      "categoryId": 7
+    },
+    {
+      "id": 62,
+      "title": [
+        "Aire acondicionado",
+        " portátil - Wide WDPC07MARIN3, 1720 fg/h, 785W, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_addcedf5-62be-4136-8bba-2957f5f14424_1024x1024.png?v=1683727894"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 219,
+      "categoryId": 7
+    },
+    {
+      "id": 63,
+      "title": [
+        "Aire acondicionado",
+        " portátil - OK OAC 9023 W ES, 2150 fg/h, 18 m², LCD Display, Temporizador, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_da588024-aa7b-427c-b4ce-4978a190e72e_1024x1024.png?v=1685543059"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 236,
+      "categoryId": 7
+    },
+    {
+      "id": 64,
+      "title": [
+        "Aire acondicionado",
+        " portátil - De'Longhi PAC ES72 Classic, 1806 fg/h, 3 velocidades, 100 m³, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_4ebb483d-0d14-49f0-95ae-a706c038cf0a_large.png?v=1685543061"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 399,
+      "categoryId": 7
     }
   ],
   "categories": [
@@ -1015,6 +1420,14 @@
     {
       "id": 6,
       "name": "Laptops"
+    },
+    {
+      "id": 7,
+      "name": "Summer"
+    },
+    {
+      "id": 8,
+      "name": "Gaming"
     }
   ],
   "shoppingcart": [
@@ -1037,29 +1450,6 @@
       "price": 215,
       "categoryId": 2,
       "quantity": 0
-    },
-    {
-      "id": 3,
-      "title": [
-        "Apple iPhone 13",
-        ", 128 GB, 5G, 6.1 OLED Super Retina XDR, Chip A15 Bionic, iOS"
-      ],
-      "pictures": [
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8ad57f90-cbe1-45bf-a545-b0a8ee5451b1_1024x1024.png?v=1631868520",
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_db75dddf-a9ce-4819-beea-55c44d8bc4ea_compact.png?v=1631868520",
-        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_24e4633c-d31e-4027-81d1-0a2d5ce6d36f_compact.png?v=1631868520"
-      ],
-      "description": "https://cms-images.mmst.eu/osyynfyvlyjc/24HJrYlA6hK9izTlUUOGrw/8cd2769bb08837cd169527472ad6b8e3/img3.png?q=80",
-      "price": 579,
-      "color": [
-        "blue",
-        "white",
-        "black",
-        "pink",
-        "green"
-      ],
-      "categoryId": 1,
-      "quantity": 2
     },
     {
       "id": 18,
@@ -1097,6 +1487,102 @@
       "price": 79.99,
       "categoryId": 4,
       "quantity": 0
+    },
+    {
+      "id": 27,
+      "title": [
+        "Apple iPad Air (2024)",
+        ", 128 GB, Blanco estrella, 13, WiFi, Pantalla Liquid Retina, Chip M2, 10GPU"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_5e671c0b-0f80-43bc-9dec-c35b11043f76_1024x1024.png?v=1715167383",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_df0d6e3f-d70c-4d32-a2f2-ae3585ab64e9_large.png?v=1715168746",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_79ecb74d-70f6-49ea-ae04-833a6bb0f925_large.png?v=1715168746",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_58431f62-adf5-4dc2-ad05-839d66065ec6_large.png?v=1715167391"
+      ],
+      "descriptionText": [
+        "Disfruta de todas tus partidas con el portátil gaming Acer Nitro 5 AN515-58-563L con pantalla de 15.6 Full HD fusionando potencia y calidad en sus componentes. Domina la partida con la potencia combinada del procesador Intel® Core™ i5-12450H y los gráficos NVIDIA® GeForce RTX™ 4060; configura tu portátil gaming con la RAM DDR5 de 16 GB y el disco SSD de 512 GB",
+        "Materiales más sostenibles y duraderos",
+        "El nuevo Galaxy S24 Ultra combina sostenibilidad y resistencia con la incorporación de nuevos materiales respetuosos con el medio ambiente. Su cuerpo en titanio te ofrece un 56% más de robustez y utiliza metales reciclados tanto en el marco como en altavoces y batería. Además, es resistente al agua y el polvo gracias a su certificación IP68 e incluye 4 años de actualizaciones y 5 de parches de seguridad. ¿Se puede pedir más?",
+        "El chip más potente jamás visto en un Galaxy",
+        "Si algo hay que remarcar de este modelo de la Serie S24 es su procesador. El Snapdragon 8 Gen 3 de 4nm te ofrece el máximo rendimiento sin comprometer la eficiencia. Su sistema de refrigeración es un 90% más grande, lo que reduce la temperatura y te garantiza una experiencia premium. Además, es compatible con la tecnología Ray Tracing, que está presente en los videojuegos más exclusivos, y con la que podrás divertirte sin límites. Móvil - Samsung Galaxy S24 Ultra, Titanium Gray, 512GB, 12GB RAM, 6.8 QHD+, Qualcomm Snapdragon 8, 5000mAh, Android 14",
+        "Limpia tu casa sin parones",
+        "Da igual si se trata de una mancha muy localizada o si tienes que limpiar varias estancias, con su batería de hasta 35 minutos podrás dejar el suelo de tu toda tu casa perfecto sin necesidad de parar a recargar su batería.",
+        "Se limpia y seca sola",
+        "Tu FreeGo estará siempre como nueva de la forma más cómoda y rápida. Colócala en su base, enciéndela y olvídate de tener que escurrir o limpiar el rodillo, su base lo hará por ti. Escoba friegasuelos - Cecotec FreeGo Wash&Vacuum Spray, Aspira y friega, 250 W, 700 ml, 35 min, Spray integrado, Incluye base de autolimpieza, Negro"
+      ],
+      "price": 869,
+      "categoryId": 1,
+      "quantity": 1
+    },
+    {
+      "id": 20,
+      "title": [
+        "Móvil - Samsung Galaxy S23 5G",
+        " Phantom Black, 256GB, 8GB RAM, 6.1 FHD+, Qualcomm Snapdragon, 3900mAh, Android 13"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_6bd7b47f-ec69-4f17-ba58-33d178522e32_1024x1024.png?v=1718294302",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_0a876c4a-1caf-4b93-b4f6-1f813b1b7157_large.png?v=1718294302",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_107ae62e-3323-4efc-86de-907ab1e26d90_large.png?v=1718294302"
+      ],
+      "descriptionText": [
+        "Cuando la vida es épica, quieres compartirla. Samsung Galaxy S23 hace que esos momentos sean aún más grandiosos gracias a sus increíbles apartados técnicos. Demuéstrale al mundo de qué estás hecho y qué eres capaz de hacer. Comparte tus fotos y vídeos más TOP, tus jugadas online más colosales y tus proyectos con el mundo. Prepárate para compartir momentos épicos junto al Smartphone Galaxy S23 5G."
+      ],
+      "originalPrice": 679,
+      "discPrice": 569,
+      "price": 569,
+      "categoryId": 2,
+      "quantity": 1
+    },
+    {
+      "id": 6,
+      "title": [
+        "Robot aspirador",
+        " - Xiaomi Robot Vacuum S12, 45W, WiFi, Autonomía 130 min, Navegación láser , Sensor LDS, Control por app, Blanco"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_961c5771-0a5d-4dd1-adab-2468e904c862_1024x1024.png?v=1684421167",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_40c6bfdb-fe8f-4331-82d5-30726b8d5b93_large.png?v=1684421169",
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_8a5afffb-04bf-422b-99c7-d55a02fe162e_large.png?v=1684421171"
+      ],
+      "descriptionText": [
+        "Consigue la aspiración perfecta de tu hogar con el robot aspirador Xiaomi Vacuum S12 con navegación láser y mapas inteligentes.",
+        "La navegación láser detecta con precisión el entorno",
+        "El Xiaomi Robot Vacuum S12 está equipado con tecnología de navegación láser,que puede lograr una exploración de 360°, identificar rápidamente el entorno doméstico y crear un mapa de la casa preciso.",
+        "Sensor LDS elevado con rango de detección de 360°",
+        "El robot incluye un sensor de distancia láser de vanguardia que permite un posicionamiento y mediciones de distancia precisos, además de un mejor rendimiento."
+      ],
+      "originalPrice": 299,
+      "discPrice": 159,
+      "price": 159,
+      "categoryId": 4,
+      "quantity": 1
+    },
+    {
+      "id": 46,
+      "title": [
+        "PS5",
+        " Sword Art Online: Fractured Daydream"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_f56dde68-575a-4567-bf01-47eb275cf7c8_1024x1024.png?v=1721308689",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_8b1e4759-ec52-459a-9f39-e854cdc7671e_large.png?v=1721308692",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_b309c6ab-f8d3-4388-8531-f22dd2703f76_large.png?v=1721308694",
+        "https://canarias.mediamarkt.es/cdn/shop/files/fee_786_587_png_1c4af21b-88aa-4274-8d1e-b54fa2efe172_large.png?v=1721308697"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 61.99,
+      "categoryId": 8,
+      "quantity": 3
     }
   ]
 }
