@@ -1598,6 +1598,28 @@
       "price": 379,
       "categoryId": 3,
       "quantity": 2
+    },
+    {
+      "id": 47,
+      "title": [
+        "PS4",
+        " Red Dead Redemption 2"
+      ],
+      "pictures": [
+        "https://canarias.mediamarkt.es/cdn/shop/products/fee_786_587_png_235c795a-dcfe-41a3-a740-fb8fafcb0d93_1024x1024.png?v=1580326263"
+      ],
+      "descriptionText": [
+        "Más allá de los recuerdos, el tiempo y el espacio. En este juego de acción cooperativo en línea, accederás a una versión distorsionada del mundo de SWORD ART ONLINE. Elige tu papel a través de tus personajes favoritos de SWORD ART ONLINE y forma equipo con 20 jugadores en incursiones para derrotar a enemigos poderosos.",
+        "El tiempo y el espacio, desplazados",
+        "Galaxia, un nuevo sistema que permite que los jugadores revivan el pasado, se añade a ALfheim Online; sin embargo, Galaxia se descontrola y provoca que jugadores de cualquier momento y lugar acaben desplazados. Para volver a encarrilar la línea temporal, Kirito debe trabajar con amigos caídos... y enemigos.",
+        "Elige tu personaje y únete a la lucha",
+        "En el juego combatirán personajes de varios arcos de SAO, cada uno con su propio rol en el campo de batalla. ¡Únete a un total de 20 jugadores de todo el mundo en uno de los 5 grupos compuestos por 4 jugadores para disfrutar de la acción cooperativa multijugador!",
+        "Derrota a jefes de alta dificultad en incursiones",
+        "Fiel a la serie SWORD ART ONLINE, ¡podrás unirte a un grupo de incursión y prepararte para luchar contra jefes de alta dificultad! ¡Tu preparación para el combate será la clave para la victoria! El DLC por reserva solo está disponible para PlayStation 5 y Xbox Series. Nintendo Switch no dispondrá de este DLC."
+      ],
+      "price": 17.99,
+      "categoryId": 8,
+      "quantity": 1
     }
   ]
 }
